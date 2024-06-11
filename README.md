@@ -1,2 +1,3 @@
 # emoji-lover
-Basic Swift Application 
+Learning how to use Swift
+Basic Swift Application switching between Emojis
